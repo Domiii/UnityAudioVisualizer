@@ -21,3 +21,11 @@ The final result is somewhere in between Hypnotoad09's first and second versions
 ### Hypnotoad09's advanced version
 
 [![Hypnotoad09's first version](https://img.youtube.com/vi/vQFNL4nNL_I/0.jpg)](https://www.youtube.com/watch?v=vQFNL4nNL_I)
+
+
+## References
+
+* [Reddit: Hypnotoad09's priginal post](https://www.reddit.com/r/Unity3D/comments/35dm0n/check_out_this_cool_3d_audio_visualizer_ive_just/)
+* [Discussion: GetOutputData and GetSpectrumData, what represent the values returned?](http://answers.unity3d.com/questions/157940/getoutputdata-and-getspectrumdata-they-represent-t.html)
+* [Video: Unity, Audio Vizualization, Spectrum Tutorial](https://www.youtube.com/watch?v=ELLANEFw5B8) [15m 50s]
+* [Another visualizer on Github](https://github.com/pctroll/unity3d-music-visualizer/blob/master/Assets/Scripts/Visualize.cs)
