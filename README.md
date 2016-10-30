@@ -7,16 +7,17 @@
 * Converted from UnityScript to C#, using [http://www.m2h.nl/files/js_to_c.php](this online converter) and some time spent debugging
 * Made it circular, and improved performance
 * Rotating camera
-* The final result is a mixture if Hypnotoad09's first and second versions (see videos below)
+
+The final result is a mixture if Hypnotoad09's first and second versions (see videos below).
 
 
 ## Videos
 
 ### Hypnotoad09's first version
 
-[![Hypnotoad09's advanced version](https://img.youtube.com/vi/dbVz0tYfGcw/0.jpg)](https://www.youtube.com/watch?v=dbVz0tYfGcw)
+[![Hypnotoad09's advanced version](https://img.youtube.com/vi/dbVz0tYfGcw/0.jpg)](https://www.youtube.com/watch?v=dbVz0tYfGcw){:target="_blank"}
 
 
 ### Hypnotoad09's advanced version
 
-[![Hypnotoad09's first version](https://img.youtube.com/vi/vQFNL4nNL_I/0.jpg)](https://www.youtube.com/watch?v=vQFNL4nNL_I)
+[![Hypnotoad09's first version](https://img.youtube.com/vi/vQFNL4nNL_I/0.jpg)](https://www.youtube.com/watch?v=vQFNL4nNL_I){:target="_blank"}
