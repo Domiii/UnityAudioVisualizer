@@ -8,7 +8,7 @@
 * Made it circular, and improved performance
 * Rotating camera
 
-The final result is a mixture if Hypnotoad09's first and second versions (see videos below).
+The final result is somewhere in between Hypnotoad09's first and second versions (see videos below).
 
 
 ## Videos
