@@ -4,8 +4,8 @@
 
 ## Changes to the original
 
-* Converted from UnityScript to C#, using [http://www.m2h.nl/files/js_to_c.php](this online converter) and some time spent debugging
-* Made it circular, and improved performance
+* Converted from UnityScript to C#, using [http://www.m2h.nl/files/js_to_c.php](this online converter) and some manual adjustments
+* Made the result circular, and improved performance
 * Rotating camera
 
 The final result is somewhere in between Hypnotoad09's first and second versions (see videos below).
