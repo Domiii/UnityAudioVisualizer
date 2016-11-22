@@ -1,6 +1,6 @@
 ## Simple Audio Visualizer for Unity
 
-**WARNING: Credit goes mostly to Hypnotoad09 ([original source code here](https://www.reddit.com/r/Unity3D/comments/35dm0n/check_out_this_cool_3d_audio_visualizer_ive_just/))**
+**DISCLAIMER: Credit goes mostly to Hypnotoad09 ([original source code here](https://www.reddit.com/r/Unity3D/comments/35dm0n/check_out_this_cool_3d_audio_visualizer_ive_just/))**
 
 ## Changes to the original
 
