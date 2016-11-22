@@ -8,7 +8,7 @@ public class AudioManager : MonoBehaviour {
 	public const int SampleCount = 512;
 
 	public static float[] spectrum= new float[SampleCount];
-	public static float[] spectrum2= new float[SampleCount];
+	//public static float[] spectrum2= new float[SampleCount];
 	AudioSource source;
 
 	void Start() {
